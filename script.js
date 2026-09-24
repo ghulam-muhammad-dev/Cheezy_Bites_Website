@@ -6,11 +6,6 @@ function order(item) {
 I want to order:
 ${item}
 
-Please confirm:
-1. Availability
-2. Delivery charges (if any)
-3. Estimated delivery time
-
 My name:
 My location/address:
 `;
